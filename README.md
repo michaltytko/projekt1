@@ -2,3 +2,6 @@
 test
 
 nowe
+
+
+nowa linia
